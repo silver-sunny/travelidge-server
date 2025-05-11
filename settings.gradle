@@ -1,0 +1,5 @@
+rootProject.name = 'traveldige-server'
+include 'core'
+include 'api'
+include 'batch'
+
