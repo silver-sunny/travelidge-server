@@ -28,14 +28,13 @@
 
 <br>
 
-![travelidge (5)](https://github.com/user-attachments/assets/9487e9a3-9544-497e-bcab-9a0e132d25ee)
+![travelidge (5)](https://github.com/user-attachments/assets/b95190c4-046e-4f08-809c-e1ff264c6810)
 
 ---
 
 ## 🏗 시스템 아키텍처
 
-![시스템 아키텍쳐-페이지-1의 복사본 drawio (3)](https://github.com/user-attachments/assets/e8345de5-a393-4cf6-bf1e-4355eac5c0ec)
-
+![시스템 아키텍쳐-페이지-1의 복사본 drawio (3)](https://github.com/user-attachments/assets/34de2a30-2678-474e-98a8-873e7454424a)
 
 
 ---
